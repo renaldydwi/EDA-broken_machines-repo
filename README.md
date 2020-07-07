@@ -13,8 +13,8 @@ Objective : Perform exploratory analysis on the data indentify why machines got 
 
 1. Use graphical analysis to describe the pattern.
 2. Try to answer the following questions – 
-    a. How lifetime of machines affected to make machines getting damaged.
-    b. How lifetime v/s team or provider affected the machines to be damaged.
-c. Find out some more pattern out of data.
+    - a. How lifetime of machines affected to make machines getting damaged.
+    - b. How lifetime v/s team or provider affected the machines to be damaged.
+    - c. Find out some more pattern out of data.
 3. Show minimum 6 graphs which shows some strong pattern.
 4. Support your findings with some real-world logic.
